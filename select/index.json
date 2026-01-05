@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "美しく生きろ",
+  "base_artist": "高嶺のなでしこ",
+  "createdAt": "2026-01-05T07:14:25.171107Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "美しく生きろ",
+      "artist": "高嶺のなでしこ",
+      "has_synced": false,
+      "path": "select/pl_01_美しく生きろ_高嶺のなでしこ.txt"
+    }
+  ]
+}
